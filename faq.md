@@ -1,6 +1,6 @@
 <details>
 <summary>
-  <b>Who built this?</b> And why?
+  <b>Who built this?</b>
 </summary>
 
 The short answer is I was feeling inspired 🥬 on 4/20 (aka Doge Day). 
@@ -17,7 +17,7 @@ I think making art is one of the best usages of AI, since it amplifies human cre
 
 <details>
 <summary>
-  <b>What is an NFT?</b> And why would I buy one?
+  <b>What is an NFT?</b>
 </summary>
 
 You can think of an NFT as a digital trading card. Just like physical trading cards, the value comes down to a combination of its inherent value to you, plus what someone else will pay for it.
@@ -32,10 +32,10 @@ Because there is no physical item to ship, NFTs can be bought and then sold in a
 
 <details>
 <summary>
-  <b>How is this related to Dogecoin?</b> And what is RenDoge?
+  <b>How is this related to Dogecoin?</b>
 </summary>
 
-RenDoge is simply a way to use your Dogecoin on Ethereum. 1 RenDoge = 1 Dogecoin. The price of the two coins will always be the same.
+This market uses RenDoge. RenDoge is simply a way to use your Dogecoin on Ethereum. 1 RenDoge = 1 Dogecoin. The price of the two coins will always be the same.
 
 The folks over at <a href='https://renproject.io/' target='_blank'>RenVM</a> built a way to securely wrap your Dogecoin into an Ethereum token. They do this for many other tokens as well, including Bitcoin.
 
@@ -45,10 +45,10 @@ It costs a 0.15% fee to wrap your Dogecoin and 0.1% fee to unwrap. However this 
 
 <details>
 <summary>
-  <b>How is this related to Ethereum?</b> And what is Polygon?
+  <b>How is this related to Ethereum?</b>
 </summary>
 
-Polygon is a child blockchain of Ethereum. Anything you can run on Ethereum can also run on Polygon, but faster and cheaper. For example, a transaction on Ethereum might be 1000x - 10000x cheaper on Polygon.
+This market uses Polygon, which is a child blockchain of Ethereum. Anything you can run on Ethereum can also run on Polygon, but faster and cheaper. For example, a transaction on Ethereum might be 1000x - 10000x cheaper on Polygon.
 
 You can move NFTs and tokens between Polygon and Ethereum through a bridge. Most tokens are bridged on <a href='https://wallet.matic.today/bridge/'>Polygon bridge site</a> but newer tokens must be added first. NFTs have to be bridged through a custom UI.
 
