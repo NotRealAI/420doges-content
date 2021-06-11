@@ -1,8 +1,6 @@
 <details>
 <summary>
-<h3 style='display: inline'>
   <b>Who built this?</b> And why?
-</h3>
 </summary>
 
 The short answer is I was feeling inspired 🥬 on 4/20 (aka Doge Day). 
@@ -19,9 +17,7 @@ I think making art is one of the best usages of AI, since it amplifies human cre
 
 <details>
 <summary>
-<h3 style='display: inline'>
   <b>What is an NFT?</b> And why would I buy one?
-</h3>
 </summary>
 
 You can think of an NFT as a digital trading card. Just like physical trading cards, the value comes down to a combination of its inherent value to you, plus what someone else will pay for it.
@@ -36,9 +32,7 @@ Because there is no physical item to ship, NFTs can be bought and then sold in a
 
 <details>
 <summary>
-<h3 style='display: inline'>
   <b>How is this related to Dogecoin?</b> And what is RenDoge?
-</h3>
 </summary>
 
 RenDoge is simply a way to use your Dogecoin on Ethereum. 1 RenDoge = 1 Dogecoin. The price of the two coins will always be the same.
@@ -51,9 +45,7 @@ It costs a 0.15% fee to wrap your Dogecoin and 0.1% fee to unwrap. However this 
 
 <details>
 <summary>
-<h3 style='display: inline'>
   <b>How is this related to Ethereum?</b> And what is Polygon?
-</h3>
 </summary>
 
 Polygon is a child blockchain of Ethereum. Anything you can run on Ethereum can also run on Polygon, but faster and cheaper. For example, a transaction on Ethereum might be 1000x - 10000x cheaper on Polygon.
