@@ -7,7 +7,7 @@ The short answer is I was feeling inspired 🥬 on 4/20 (aka Doge Day).
 
 The long answer is I'm a developer who has been building and experimenting with projects at the intersection of generative AI and Ethereum. You can check out my Instagram account at <a href='https://www.instagram.com/notreal.ai/'>@notreal.ai</a>.
 
-I believe that building projects like these is my best shot at making a positive impact in the world. I also just enjoy doing it. I hope that you enjoy it and and that the care and effort that went into it shines through. 
+I believe that building projects like these is my best shot at making a positive impact in the world. I also just enjoy doing it. I hope that you also enjoy it, and that the care and effort that went into it shines through. 
 
 I think making art is one of the best usages of AI, since it amplifies human creativity. I'd like to continue building sites that intersect generative AI and the decentralized web and which benefit the Doge, Ethereum, NFT and global communities. Buying an NFT from this site helps me to continue pursuing that mission.
 
